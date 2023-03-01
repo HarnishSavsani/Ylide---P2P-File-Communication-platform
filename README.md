@@ -1,7 +1,7 @@
-#Cross Chain Architecture
+# Cross Chain Architecture
 The P2P File Communication platform makes use of the Ylide SDK for messaging, giving the entire platform a flair of cross-chain capabilities and allowing for support across multiple ecosystems. The platform's architecture is extremely simple with its Ylide SDK Integration and so it also keeps the cost of using the platform on any chain extremely low (10 cents for a message). To read more about Ylide, please refer (https://docs.ylide.io/parts-of-the-ylide)[HERE]
 
-#Platform Usage
+# Platform Usage
 The P2P File Communication Platform allows for the following functionalities:
 
 Generating and Registering the Communication Keys: As Ylide SDK requires a KeyPair to work with message encryption and decryption, the platform takes care of exposing this functionality for the end users. First time users can generate and register their communication keys with Ylide and start sending secure communications.
